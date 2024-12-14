@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <!-- You can change colors, fonts, etc. -->
+    </style>
+
+    <!-- Custom AlertDialog Theme -->
+    <style name="CustomAlertDialog">
+        <item name="android:background">@drawable/dialog_background</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+    </style>
+
+</resources>
